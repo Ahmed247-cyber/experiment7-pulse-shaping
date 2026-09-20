@@ -1,0 +1,7 @@
+Experiment 7 numerical diagnostics
+SPS=32, truncated pulse span=+/-32 symbols
+
+alpha=0.0: theory bandwidth=0.500000, approx -60 dB edge=1.874023, max |off-center integer sample|=3.506e-03
+alpha=0.25: theory bandwidth=0.625000, approx -60 dB edge=1.936523, max |off-center integer sample|=1.252e-06
+alpha=0.5: theory bandwidth=0.750000, approx -60 dB edge=1.936523, max |off-center integer sample|=3.496e-07
+alpha=1.0: theory bandwidth=1.000000, approx -60 dB edge=1.952148, max |off-center integer sample|=8.740e-08
