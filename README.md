@@ -9,8 +9,6 @@ This repository contains a reproducible raised-cosine/root-raised-cosine pulse-s
 - `nyquist_zero_crossings.csv` — integer-symbol samples of the cascaded RRC response.
 - `bandwidth_rolloff.csv` — theoretical bandwidth and numerical diagnostics.
 - `01_pulse_comparison.png` through `05_bandwidth_vs_rolloff.png` — required visualizations.
-- `presentation_speaker_script.md` — slide-by-slide explanatory script.
-
 ## Run
 
 ```bash
